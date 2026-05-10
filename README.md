@@ -116,7 +116,4 @@ Paths can be overridden from the sidebar in any app.
 
 ---
 
-## Contributors
 
-- 22F-3845
-- 22F-3360
