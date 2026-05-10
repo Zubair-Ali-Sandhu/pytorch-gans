@@ -1,0 +1,12 @@
+# Generated model artifacts (can exceed GitHub file size limits)
+output/*.pth
+output/*.pt
+output/*.pkl
+outputs/*.pth
+outputs/*.pt
+outputs/*.pkl
+
+# Large model weight files
+*.pt
+*.pth
+*.pkl
