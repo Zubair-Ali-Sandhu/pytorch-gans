@@ -10,9 +10,9 @@
 
 | # | Model | Task | Notebook |
 |---|-------|------|----------|
-| Q1 | DCGAN vs WGAN-GP | Anime face generation — compare stability & diversity | [Q1_DCGAN_WGANGP_FIXED.ipynb](https://github.com/Zubair-Ali-Sandhu/gans-verse/blob/main/Q1_DCGAN_WGANGP_FIXED.ipynb) |
-| Q2 | Pix2Pix (cGAN) | Sketch → realistic image translation | [q2-pix2pix.ipynb](https://github.com/Zubair-Ali-Sandhu/gans-verse/blob/main/q2-pix2pix-kaggle968e27e0cd%20(2).ipynb) |
-| Q3 | CycleGAN | Unpaired image-to-image translation (Sketch ↔ Photo) | [q3-cyclegan.ipynb](https://github.com/Zubair-Ali-Sandhu/gans-verse/blob/main/q3-cyclegan-kaggle310747e72a.ipynb) |
+| Q1 | DCGAN vs WGAN-GP | Anime face generation — compare stability & diversity | [Q1_DCGAN_WGANGP_FIXED.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/Q1_DCGAN_WGANGP_FIXED.ipynb) |
+| Q2 | Pix2Pix (cGAN) | Sketch → realistic image translation | [q2-pix2pix.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/q2-pix2pix-kaggle968e27e0cd%20(2).ipynb) |
+| Q3 | CycleGAN | Unpaired image-to-image translation (Sketch ↔ Photo) | [q3-cyclegan.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/q3-cyclegan-kaggle310747e72a.ipynb) |
 
 ---
 
@@ -41,8 +41,8 @@ gans-verse/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Zubair-Ali-Sandhu/gans-verse.git
-cd gans-verse
+git clone https://github.com/Zubair-Ali-Sandhu/pytorch-gans.git
+cd pytorch-gans
 ```
 
 ### 2. Create a virtual environment
