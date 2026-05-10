@@ -2,17 +2,27 @@
 
 > PyTorch + Streamlit implementations of DCGAN, WGAN-GP, Pix2Pix, and CycleGAN — with interactive demos and a unified dashboard.
 
-**Course:** Generative AI (AI4009) · **University:** FAST NUCES · **Semester:** Spring 2026
+---
+
+## Live Demos on Hugging Face Spaces
+
+Three of the models are deployed as standalone Gradio apps:
+
+| Model | Task | Live Demo |
+|-------|------|-----------|
+| DCGAN vs WGAN-GP | Anime face generation — compare two GAN paradigms | [🌸 anime-face-generation-dcgan-vs-wgan-gp](https://huggingface.co/spaces/prospect01/anime-face-generation-dcgan-vs-wgan-gp) |
+| Pix2Pix (cGAN) | Sketch → colorized anime image translation | [🖌️ pix2pix-sketch-colorization](https://huggingface.co/spaces/prospect01/pix2pix-sketch-colorization) |
+| CycleGAN | Unpaired image-to-image translation (Sketch ↔ Photo) | [🎨 cyclegan-sketch-to-photo-translation](https://huggingface.co/spaces/prospect01/cyclegan-sketch-to-photo-translation) |
 
 ---
 
 ## Models & Notebooks
 
-| # | Model | Task | Notebook |
-|---|-------|------|----------|
-| Q1 | DCGAN vs WGAN-GP | Anime face generation — compare stability & diversity | [Q1_DCGAN_WGANGP_FIXED.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/Q1_DCGAN_WGANGP_FIXED.ipynb) |
-| Q2 | Pix2Pix (cGAN) | Sketch → realistic image translation | [q2-pix2pix.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/q2-pix2pix-kaggle968e27e0cd%20(2).ipynb) |
-| Q3 | CycleGAN | Unpaired image-to-image translation (Sketch ↔ Photo) | [q3-cyclegan.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/q3-cyclegan-kaggle310747e72a.ipynb) |
+| Model | Task | Notebook |
+|-------|------|----------|
+| DCGAN vs WGAN-GP | Anime face generation — compare stability & diversity | [Q1_DCGAN_WGANGP_FIXED.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/Q1_DCGAN_WGANGP_FIXED.ipynb) |
+| Pix2Pix (cGAN) | Sketch → realistic image translation | [q2-pix2pix.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/q2-pix2pix-kaggle968e27e0cd%20(2).ipynb) |
+| CycleGAN | Unpaired image-to-image translation (Sketch ↔ Photo) | [q3-cyclegan.ipynb](https://github.com/Zubair-Ali-Sandhu/pytorch-gans/blob/main/q3-cyclegan-kaggle310747e72a.ipynb) |
 
 ---
 
@@ -116,4 +126,6 @@ Paths can be overridden from the sidebar in any app.
 
 ---
 
+## Author
 
+**Zubair Ali Sandhu** — [GitHub](https://github.com/Zubair-Ali-Sandhu)
